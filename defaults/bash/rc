@@ -1,0 +1,4 @@
+source ~/.local/share/saisho/defaults/bash/shell
+source ~/.local/share/saisho/defaults/bash/aliases
+source ~/.local/share/saisho/defaults/bash/prompt
+source ~/.local/share/saisho/defaults/bash/init

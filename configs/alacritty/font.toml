@@ -1,0 +1,2 @@
+# Leave this file as-is to allow saisho to swap fonts system wide
+import = [ "~/.local/share/saisho/fonts/alacritty/cascadia-mono.toml" ]

@@ -1,0 +1,4 @@
+source ~/.local/share/saisho/defaults/bash/rc
+
+# Editor used by CLI
+export EDITOR="nvim"
