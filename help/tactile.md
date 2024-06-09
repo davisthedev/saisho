@@ -2,7 +2,7 @@
 
 Tactile is a tool for tiling windows on larger displays. It's not a tiling windows manager, like i3 or Hyprland,
 so it works alongside the regular Ubuntu Gnome window system that anyone coming from Windows or Mac would be 
-familiar with. By default, Omakub has configured it with 6 slots, using one main column, and two wings. This is
+familiar with. By default, Saisho has configured it with 6 slots, using one main column, and two wings. This is
 a great setup for having your editor in the center, flanked by docs and browser and AI helpers and what else.
 
 You don't need or probably even want to use this when using a smaller laptop, like a Framework 13. On a screen 
